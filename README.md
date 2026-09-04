@@ -1,127 +1,169 @@
-﻿<div align="center">
-  <img src="./assets/physioverse-logo.png" alt="PhysioVerse" width="760" />
-  https://physioverse.org/
+<div align="center">
 
-  <h3>Open-source ecosystem for regenerative medicine innovation</h3>
+<a href="https://physioverse.org/">
+  <img src="profile/assets/physioverse-logo.png" alt="PhysioVerse" width="760" />
+</a>
 
-  <p>
-    <strong>PhysioVerse-OSE</strong> brings together data resources, tools, standards exchange,
-    learning pathways, and community workflows for organoids, body-on-chip systems,
-    tissue chips, and related microphysiological systems.
-  </p>
+### Open resources for advanced in vitro and microphysiological systems
 
-  <p>
-    <a href="https://main.d1lur6xxswxv3s.amplifyapp.com/"><strong>Visit the platform</strong></a>
-    ┬╖
-    <a href="https://main.d1lur6xxswxv3s.amplifyapp.com/on-ramp"><strong>Start on the OnRamp</strong></a>
-    ┬╖
-    <a href="https://main.d1lur6xxswxv3s.amplifyapp.com/data-library"><strong>Explore the Data Library</strong></a>
-    ┬╖
-    <a href="https://main.d1lur6xxswxv3s.amplifyapp.com/submit-data"><strong>Contribute</strong></a>
-  </p>
+**PhysioVerse connects data, tools, reproducible workflows, standards activities, learning resources, and community pathways for organoids, tissue chips, body-on-chip systems, engineered tissues, and related human-relevant models.**
 
-  <p>
-    <img alt="Open source" src="https://img.shields.io/badge/open--source-ecosystem-0B5C6B?style=for-the-badge" />
-    <img alt="Advanced model systems" src="https://img.shields.io/badge/advanced%20model%20systems-organoids%20%7C%20MPS%20%7C%20chips-153E75?style=for-the-badge" />
-    <img alt="Community driven" src="https://img.shields.io/badge/community-driven-D99A00?style=for-the-badge" />
-  </p>
+<a href="https://physioverse.org/"><strong>Visit PhysioVerse</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://physioverse.org/on-ramp"><strong>Get Started</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://physioverse.org/data-library"><strong>Explore Data</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://physioverse.org/tools"><strong>Explore Tools</strong></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Open%20Science-PhysioVerse-0B6670?style=for-the-badge" alt="Open Science" />
+<img src="https://img.shields.io/badge/Organoids%20%26%20MPS-Open%20Resources-365F91?style=for-the-badge" alt="Organoids and MPS" />
+<img src="https://img.shields.io/badge/Reproducibility-Community-C69214?style=for-the-badge" alt="Reproducibility" />
+
 </div>
 
 ---
 
-## What PhysioVerse is building
+## About PhysioVerse
 
-PhysioVerse is designed to reduce fragmentation in advanced in vitro and microphysiological system research by helping the community describe, compare, validate, discover, and reuse data and workflows across laboratories.
+PhysioVerse is an open ecosystem designed to help the advanced in vitro and microphysiological systems community discover, compare, evaluate, and reuse data, tools, workflows, and supporting resources.
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Data compatibility</h3>
-      <p>Shared metadata, model descriptors, assay context, file relationships, and review workflows that make advanced model system data easier to compare and reuse.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Open tools</h3>
-      <p>Templates, validation resources, workflow components, and open-source software that help teams implement reproducible and interoperable practices.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Community adoption</h3>
-      <p>Learning pathways, standards exchange, contributor workflows, and translational resources for users, developers, curators, institutions, and industry partners.</p>
-    </td>
-  </tr>
-</table>
-
-## Why this matters
-
-Advanced in vitro systems, including organoids, body-on-chip systems, tissue chips, and related microphysiological systems, are becoming important for drug discovery, toxicity assessment, disease modeling, personalized medicine, and reducing reliance on animal models.
-
-Their impact depends on whether data from different laboratories can be interpreted together. PhysioVerse supports that goal by connecting data, metadata, tools, workflows, standards, learning activities, and community review practices in one open ecosystem.
-
-## Start here
+The broader platform connects biological and computational resources across organoids, tissue chips, body-on-chip systems, engineered tissues, and related human-relevant models.
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>New to PhysioVerse?</h3>
-      <p>Use the OnRamp to choose the path that matches what you want to do.</p>
-      <p><a href="https://main.d1lur6xxswxv3s.amplifyapp.com/on-ramp">Open the OnRamp ΓåÆ</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Looking for data?</h3>
-      <p>Explore discoverable dataset records, metadata, repository links, and access pathways.</p>
-      <p><a href="https://main.d1lur6xxswxv3s.amplifyapp.com/data-library">Explore the Data Library ΓåÆ</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Want to contribute?</h3>
-      <p>Submit data, metadata, tools, documentation, repository links, workflows, or training resources.</p>
-      <p><a href="https://main.d1lur6xxswxv3s.amplifyapp.com/submit-data">Contribute ΓåÆ</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Building tools?</h3>
-      <p>Find open-source resources, sandbox activities, and developer-oriented pathways.</p>
-      <p><a href="https://main.d1lur6xxswxv3s.amplifyapp.com/tools">Explore Tools ΓåÆ</a></p>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+### Data and Metadata
+
+Discover dataset records, metadata, repositories, and access pathways that support reuse and comparison across studies.
+
+</td>
+<td width="33%" valign="top">
+
+### Tools and Workflows
+
+Explore reusable computational resources, benchmarking approaches, analysis workflows, and open technical projects.
+
+</td>
+<td width="33%" valign="top">
+
+### Community and Standards
+
+Connect with standards activities, learning resources, contribution pathways, and collaborative initiatives.
+
+</td>
+</tr>
 </table>
 
-## Ecosystem areas
+---
 
-| Area | Purpose |
+## Start Here
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### New to PhysioVerse?
+
+Use the On-Ramp to find the most relevant path based on what you want to explore or contribute.
+
+[**Start on the On-Ramp →**](https://physioverse.org/on-ramp)
+
+</td>
+<td width="50%" valign="top">
+
+### Looking for Data?
+
+Explore dataset records, metadata, repository links, and available access information.
+
+[**Explore the Data Library →**](https://physioverse.org/data-library)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Looking for Tools?
+
+Explore computational tools, workflows, benchmarking resources, and reusable technical components.
+
+[**Explore Tools →**](https://physioverse.org/tools)
+
+</td>
+<td width="50%" valign="top">
+
+### Want to Contribute?
+
+Contribute data and metadata or connect with broader PhysioVerse participation pathways.
+
+[**Contribute to PhysioVerse →**](https://physioverse.org/submit-data)
+
+</td>
+</tr>
+</table>
+
+---
+
+## PhysioVerse Ecosystem
+
+| Area | Explore |
 |---|---|
-| **Data Library** | Discover dataset records, metadata, repositories, and access pathways. |
-| **Standards Exchange** | Align descriptors, metadata practices, benchmarking needs, and interoperability discussions. |
-| **Tools** | Share templates, validation resources, examples, workflow components, and open-source software. |
-| **Learning Network** | Support onboarding, training, documentation, and community learning activities. |
-| **Community** | Bring together contributors, users, developers, curators, institutions, industry, and training partners. |
-| **News and Events** | Track platform updates, workshops, standards activities, and opportunities to participate. |
+| **Data Library** | [Discover data and metadata](https://physioverse.org/data-library) |
+| **Tools** | [Explore tools and workflows](https://physioverse.org/tools) |
+| **Standards Exchange** | [Explore standards activities](https://physioverse.org/standards-exchange) |
+| **Learning Network** | [Explore learning resources](https://physioverse.org/learning-network) |
+| **Community** | [Connect with the community](https://physioverse.org/community) |
+| **GitHub Resources** | [Explore the public GitHub pathway](https://physioverse.org/github) |
+| **On-Ramp** | [Find your starting point](https://physioverse.org/on-ramp) |
 
-## Featured repositories
+---
 
-- **[PhysioVerse-ML](https://github.com/PhysioVerse-OSE/PhysioVerse-ML)** ΓÇö machine learning and data-science resources for the PhysioVerse ecosystem.
-- **[.github](https://github.com/PhysioVerse-OSE/.github)** ΓÇö organization profile and shared GitHub community files.
+## Featured Public Repositories
 
-More repositories can be added here as the ecosystem grows.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Community principles
+### Toward Standardization
 
-PhysioVerse is intended to support open, responsible, and interoperable work across advanced model systems. The ecosystem emphasizes:
+Reference-anchored benchmarking for evaluating how closely advanced in vitro models reflect an appropriate biological reference.
 
-- reproducible and reusable data practices,
-- transparent metadata and file relationships,
-- community-informed standards exchange,
-- open-source contribution pathways,
-- human-relevant model systems and translational readiness,
-- respectful collaboration across academic, nonprofit, government, and industry partners.
+[**Explore the repository →**](https://github.com/PhysioVerse-OSE/toward-standardization)
 
-## Participate
+</td>
+<td width="50%" valign="top">
 
-PhysioVerse welcomes users, data contributors, tool developers, curators, educators, standards contributors, institutional partners, industry collaborators, and translational stakeholders.
+### DGE Tool Choice Benchmark
+
+Reproducible workflows for evaluating edgeR and DESeq2 across sensitivity, robustness, pathway interpretation, and cross-study performance.
+
+[**Explore the repository →**](https://github.com/PhysioVerse-OSE/dge-tool-choice-benchmark)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Why This Matters
+
+Advanced in vitro systems are increasingly used in disease modeling, toxicity assessment, therapeutic development, biological discovery, and translational science.
+
+Their broader value depends on the ability to understand how models were generated, how data were analyzed, how systems compare with relevant biological references, and how results can be reproduced across laboratories.
+
+PhysioVerse supports these goals by connecting open data, transparent workflows, benchmarking resources, standards activities, learning materials, and community participation.
+
+---
 
 <p align="center">
-  <a href="https://main.d1lur6xxswxv3s.amplifyapp.com/on-ramp"><strong>Start on the OnRamp</strong></a>
-  ┬╖
-  <a href="https://main.d1lur6xxswxv3s.amplifyapp.com/community"><strong>Join the community</strong></a>
-  ┬╖
-  <a href="https://main.d1lur6xxswxv3s.amplifyapp.com/contact"><strong>Contact us</strong></a>
+  <a href="https://physioverse.org/"><strong>PhysioVerse.org</strong></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://physioverse.org/community"><strong>Community</strong></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://physioverse.org/github"><strong>GitHub Resources</strong></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://physioverse.org/contact"><strong>Contact</strong></a>
 </p>
