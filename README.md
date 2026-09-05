@@ -4,14 +4,25 @@
   <img src="https://physioverse.org/branding/physioverse-logo.png" alt="PhysioVerse" width="760" />
 </a>
 
+<br>
+
 ### Open ecosystem for advanced in vitro and microphysiological systems
 
-**Connecting MPS data, standards, reproducible workflows, validation resources, protocols, reference datasets, and community expertise.**
+**A community space for MPS data, standards, reproducible workflows, validation, reference resources, protocols, and shared scientific infrastructure.**
 
-[**Visit PhysioVerse**](https://physioverse.org/) ·
-[**Start Contributing**](START_CONTRIBUTING.md) ·
-[**Explore Data**](https://physioverse.org/data-library) ·
-[**Explore Tools**](https://physioverse.org/tools)
+<br>
+
+<a href="https://physioverse.org/"><img src="https://img.shields.io/badge/Visit-PhysioVerse-0B6670?style=for-the-badge" alt="Visit PhysioVerse"></a>
+<a href="START_CONTRIBUTING.md"><img src="https://img.shields.io/badge/Start-Contributing-365F91?style=for-the-badge" alt="Start Contributing"></a>
+<a href="https://physioverse.org/data-library"><img src="https://img.shields.io/badge/Explore-Data-C69214?style=for-the-badge" alt="Explore Data"></a>
+<a href="https://physioverse.org/tools"><img src="https://img.shields.io/badge/Explore-Tools-5A6F80?style=for-the-badge" alt="Explore Tools"></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MPS-Community-0B6670" alt="MPS Community">
+<img src="https://img.shields.io/badge/Open-Science-365F91" alt="Open Science">
+<img src="https://img.shields.io/badge/Standards-Community%20Driven-C69214" alt="Community Driven Standards">
+<img src="https://img.shields.io/badge/Contributions-No%20Coding%20Required-5A6F80" alt="No Coding Required">
 
 </div>
 
@@ -19,17 +30,80 @@
 
 ## Welcome to PhysioVerse
 
-PhysioVerse is an open ecosystem for organoids, tissue chips, organ-on-chip systems, organ tissue equivalents, body-on-chip systems, engineered tissues, and related human-relevant models.
+PhysioVerse is an open ecosystem for **organoids, tissue chips, organ-on-chip systems, organ tissue equivalents, body-on-chip systems, engineered tissues, and related human-relevant models**.
 
 This GitHub profile is the public working space where the MPS community can help build shared resources. Community members can contribute datasets, metadata, terminology, standards input, biological references, validation evidence, reproducibility studies, protocols, and technical resources.
 
-> **You do not need to write code to contribute.**
+> ### You do not need to write code to contribute.
+> Most community participation happens through simple GitHub forms for datasets, metadata, standards, protocols, reference resources, validation evidence, and scientific review.
+
+---
+
+## PhysioVerse at a Glance
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Data & Metadata
+
+Bring public MPS datasets together and improve the information needed to understand and reuse them.
+
+**Key projects**
+- [MPS Data Commons](https://github.com/PhysioVerse-OSE/mps-data-commons)
+- [MPS Minimum Metadata Standard](https://github.com/PhysioVerse-OSE/mps-minimum-metadata)
+- [MPS Multimodal Data Standard](https://github.com/PhysioVerse-OSE/mps-multimodal-data-standard)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Standards & Descriptors
+
+Develop practical, community-reviewed terminology and reporting guidance across MPS studies.
+
+**Key projects**
+- [MPS Model & System Descriptors](https://github.com/PhysioVerse-OSE/mps-model-system-descriptors)
+- [MPS Experimental Conditions Standard](https://github.com/PhysioVerse-OSE/mps-experimental-conditions)
+- [MPS Assay & Endpoint Dictionary](https://github.com/PhysioVerse-OSE/mps-assay-endpoint-dictionary)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Validation & Reproducibility
+
+Build shared evidence for biological relevance, fit-for-purpose use, benchmarking, and cross-laboratory reproducibility.
+
+**Key projects**
+- [MPS Reference Atlas](https://github.com/PhysioVerse-OSE/mps-reference-atlas)
+- [MPS Validation Framework](https://github.com/PhysioVerse-OSE/mps-validation-framework)
+- [MPS Reproducibility Commons](https://github.com/PhysioVerse-OSE/mps-reproducibility-commons)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Protocols & Community Action
+
+Connect reusable protocols with MPS data and organize focused community efforts around high-priority needs.
+
+**Key projects**
+- [MPS Protocol Commons](https://github.com/PhysioVerse-OSE/mps-protocol-commons)
+- [MPS Community Challenges](https://github.com/PhysioVerse-OSE/mps-community-challenges)
+- [Start Contributing](START_CONTRIBUTING.md)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Active PhysioVerse Projects
 
-The table below provides a single view of the current PhysioVerse GitHub project ecosystem.
+The table below provides a single view of the current PhysioVerse GitHub ecosystem.
 
 | Type | Project | What it is building | How the community can contribute |
 |---|---|---|---|
@@ -50,95 +124,172 @@ The table below provides a single view of the current PhysioVerse GitHub project
 
 ---
 
+## Choose Your Contribution Path
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Quick Contribution
+
+A simple way to contribute a useful public resource or suggestion.
+
+**Examples**
+- nominate an MPS dataset
+- suggest a metadata field
+- share a public protocol
+- nominate a biological reference
+- identify a missing resource
+
+[**Start here →**](START_CONTRIBUTING.md)
+
+</td>
+
+<td width="33%" valign="top">
+
+### Community Review
+
+Help strengthen working drafts and shared resources through scientific and technical review.
+
+**Examples**
+- review terminology
+- comment on metadata requirements
+- evaluate reference datasets
+- review validation evidence
+- suggest standards alignment
+
+[**Explore projects →**](https://github.com/PhysioVerse-OSE?tab=repositories)
+
+</td>
+
+<td width="33%" valign="top">
+
+### Project Contributor
+
+Take a deeper role in maintaining and improving a community project.
+
+**Examples**
+- curate accepted contributions
+- organize evidence
+- improve working drafts
+- maintain reference lists
+- contribute code when useful
+
+[**Join a project →**](START_CONTRIBUTING.md)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## How to Contribute
 
 Most PhysioVerse community contributions use structured GitHub Issue Forms.
 
-### 1. Choose a project
+1. **Choose a project** from the table above.
+2. Open the project and select **Issues → New issue**.
+3. Choose a contribution form.
+4. Complete what you know.
+5. Submit and join the discussion if additional review is useful.
 
-Select the project that best matches your expertise or resource from the table above.
+Public sources, DOIs, accessions, protocols, standards, publications, and examples are encouraged when available.
 
-### 2. Open the project
+<div align="center">
 
-Select **Issues**, then **New issue**.
+### [Open the PhysioVerse Contribution Guide →](START_CONTRIBUTING.md)
 
-### 3. Choose a contribution form
-
-Depending on the project, you can nominate a public resource, make a community contribution, or review a working draft.
-
-### 4. Complete what you know
-
-Provide the information you have. Public sources, DOIs, accessions, standards, protocols, publications, or examples are useful when available.
-
-### 5. Submit and join the discussion
-
-Other community members may add evidence, ask questions, or suggest refinements.
-
-**No cloning, command-line work, or programming is required for most contributions.**
-
-<p align="center">
-  <a href="START_CONTRIBUTING.md"><strong>Open the PhysioVerse Contribution Guide</strong></a>
-</p>
-
----
-
-## Ways to Participate
-
-| Participation path | Best for | Examples |
-|---|---|---|
-| **Quick contribution** | Community members with a specific public resource or suggestion | Nominate a dataset, suggest a metadata field, share a protocol, nominate a biological reference, identify a missing resource |
-| **Community review** | Domain experts who can evaluate proposed resources or working drafts | Review terminology, metadata fields, reference datasets, validation evidence, standards alignment |
-| **Project contributor** | Community members interested in sustained involvement | Curate accepted contributions, organize evidence, maintain working drafts, improve documentation, contribute code when useful |
+</div>
 
 ---
 
 ## Standards Development
 
-Several PhysioVerse projects are designed as open community working spaces for MPS standards and shared descriptors.
+Several PhysioVerse projects are designed as open working spaces for MPS standards and shared descriptors.
 
-These projects begin with **working drafts**, not declarations of finalized standards. Community participation can help determine which fields, definitions, descriptors, units, evidence, and mappings are practical across real MPS studies.
-
-PhysioVerse projects should reuse and align with established standards, ontologies, controlled vocabularies, and community practices where appropriate rather than unnecessarily recreating them.
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Standards-focused projects
 
 - [MPS Minimum Metadata Standard](https://github.com/PhysioVerse-OSE/mps-minimum-metadata)
 - [MPS Model & System Descriptors](https://github.com/PhysioVerse-OSE/mps-model-system-descriptors)
 - [MPS Experimental Conditions Standard](https://github.com/PhysioVerse-OSE/mps-experimental-conditions)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Related shared frameworks
+
 - [MPS Assay & Endpoint Dictionary](https://github.com/PhysioVerse-OSE/mps-assay-endpoint-dictionary)
 - [MPS Multimodal Data Standard](https://github.com/PhysioVerse-OSE/mps-multimodal-data-standard)
 - [MPS Validation Framework](https://github.com/PhysioVerse-OSE/mps-validation-framework)
+
+</td>
+</tr>
+</table>
+
+These projects begin with **working drafts**, not declarations of finalized standards. Community participation can help determine which fields, definitions, descriptors, units, evidence, and mappings are practical across real MPS studies.
+
+PhysioVerse should reuse and align with established standards, ontologies, controlled vocabularies, and community practices where appropriate.
 
 ---
 
 ## Community Working Principles
 
-- **Open participation:** most contributions can be made through GitHub forms without coding.
-- **Evidence first:** public datasets, publications, protocols, standards, and examples are encouraged where available.
-- **Working drafts are open for review:** early drafts do not imply community consensus.
-- **Reuse before reinvention:** align with relevant existing standards and vocabularies where appropriate.
-- **Transparent discussion:** unresolved questions should remain visible and open for community input.
-- **Practical outcomes:** projects should produce reusable resources, curated evidence, working drafts, or clearly documented recommendations.
-- **Clear provenance:** public resources and evidence should remain traceable to their original source.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Open and Practical
+
+- most contributions do not require coding
+- projects should address real MPS needs
+- outputs should be reusable and easy to understand
+- public evidence should remain traceable to its source
+
+</td>
+
+<td width="50%" valign="top">
+
+### Community Reviewed
+
+- working drafts remain open for refinement
+- early drafts do not imply consensus
+- existing standards should be reused where appropriate
+- unresolved questions should remain visible
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Explore the PhysioVerse Ecosystem
 
-| Area | Link |
+| Area | Explore |
 |---|---|
 | **PhysioVerse platform** | [physioverse.org](https://physioverse.org/) |
-| **Data Library** | [Explore data](https://physioverse.org/data-library) |
-| **Tools** | [Explore tools](https://physioverse.org/tools) |
-| **Standards Exchange** | [Explore standards](https://physioverse.org/standards-exchange) |
+| **Data Library** | [Discover datasets](https://physioverse.org/data-library) |
+| **Tools** | [Explore tools and workflows](https://physioverse.org/tools) |
+| **Standards Exchange** | [Explore standards activities](https://physioverse.org/standards-exchange) |
 | **Learning Network** | [Explore learning resources](https://physioverse.org/learning-network) |
 | **Community** | [Connect with the community](https://physioverse.org/community) |
 | **Contribution Guide** | [Start contributing](START_CONTRIBUTING.md) |
 
+---
+
 <div align="center">
 
-### Build PhysioVerse with the MPS community
+## Build PhysioVerse with the MPS Community
 
-**Contribute data. Improve standards. Share evidence. Review resources. Help make MPS science more reusable and reproducible.**
+**Contribute data · Improve standards · Share evidence · Review resources · Strengthen reproducibility**
+
+<br>
+
+<a href="START_CONTRIBUTING.md"><img src="https://img.shields.io/badge/Join-the%20Community-0B6670?style=for-the-badge" alt="Join the Community"></a>
+<a href="https://physioverse.org/"><img src="https://img.shields.io/badge/Explore-PhysioVerse-365F91?style=for-the-badge" alt="Explore PhysioVerse"></a>
 
 </div>
