@@ -21,10 +21,10 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/MPS-Community-0B6670" alt="MPS Community">
-<img src="https://img.shields.io/badge/Open-Science-365F91" alt="Open Science">
-<img src="https://img.shields.io/badge/Standards-Community%20Driven-C69214" alt="Community Driven Standards">
-<img src="https://img.shields.io/badge/Contribution-No%20Coding%20Required-5A6F80" alt="No Coding Required">
+<a href="https://physioverse.org/community"><img src="https://img.shields.io/badge/MPS-Community-0B6670" alt="MPS Community"></a>
+<a href="https://github.com/PhysioVerse-OSE?tab=repositories"><img src="https://img.shields.io/badge/Open-Science-365F91" alt="Open Science"></a>
+<a href="https://physioverse.org/standards-exchange"><img src="https://img.shields.io/badge/Standards-Community%20Driven-C69214" alt="Community Driven Standards"></a>
+<a href="START_CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contribution-No%20Coding%20Required-5A6F80" alt="No Coding Required"></a>
 
 </div>
 
@@ -32,34 +32,88 @@
 
 ## Welcome to PhysioVerse
 
-Microphysiological systems (MPS), including organs-on-chips, organoids, tissue chips, and other engineered human-relevant models, are reshaping how science evaluates therapies and studies disease, with biology designed to better reflect human physiology and reduce reliance on animal testing.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-Realizing that potential requires shared foundations that remain fragmented or incomplete. Data, methods, metadata, and terminology often sit in separate silos, which makes results difficult to compare, integrate, or reuse.
+### Build the shared foundations MPS science needs
 
-**PhysioVerse is an open ecosystem where the MPS community can build those foundations together by bringing public datasets into view, shaping shared standards, organizing reference resources and protocols, and creating reproducible evidence that others can build on.**
+Microphysiological systems are rapidly expanding across organs-on-chips, organoids, tissue chips, engineered tissues, and related human-relevant models.
 
-> ### You do not need to write code to contribute.
-> **Pick a project, click Contribute, and share what you know.**
+The opportunity is significant, but the field still needs stronger shared infrastructure for **data discovery, metadata, terminology, validation, reproducibility, standards, protocols, and reference resources**.
 
----
+**PhysioVerse is where the MPS community can build those foundations together.**
+
+Bring public datasets into view. Help shape shared standards. Improve validation and reproducibility. Connect protocols and reference resources. Contribute evidence that others can reuse.
+
+</td>
+
+<td width="40%" valign="top">
+
+### Why contribute?
+
+**Make data easier to find**  
+Help connect public MPS datasets and resources.
+
+**Improve comparability**  
+Shape practical metadata, terminology, and reporting guidance.
+
+**Strengthen confidence**  
+Contribute validation, benchmarking, and reproducibility evidence.
+
+**Build together**  
+Join focused community projects without needing to write code.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-## Featured MPS Media
+### [Pick a project and contribute](START_CONTRIBUTING.md), then share what you know.
 
-### 14-Day Cardiac Organoids
-
-**Human iPSC-derived cardiac organoids with synchronized beating at approximately 60 bpm**
-
-<a href="https://physioverse.org/">
-  <img src="https://img.shields.io/badge/▶%20Watch%20the%20Cardiac%20Organoid%20Video-Live%20on%20PhysioVerse-0B6670?style=for-the-badge" alt="Watch cardiac organoid video on PhysioVerse">
-</a>
-
-<br><br>
-
-*PhysioVerse connects visual MPS data with biological context, metadata, provenance, assay descriptors, and reusable data resources.*
+<a href="START_CONTRIBUTING.md"><img src="https://img.shields.io/badge/Choose-a%20Project-0B6670?style=for-the-badge" alt="Choose a Project"></a>
+<a href="START_CONTRIBUTING.md"><img src="https://img.shields.io/badge/Make-a%20Contribution-365F91?style=for-the-badge" alt="Make a Contribution"></a>
+<a href="https://github.com/PhysioVerse-OSE/PhysioVerse-OSE/discussions"><img src="https://img.shields.io/badge/Join-the%20Conversation-C69214?style=for-the-badge" alt="Join the Conversation"></a>
 
 </div>
+
+---
+
+## Four Ways PhysioVerse Moves MPS Forward
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### 01 · Discover
+
+Find and connect public MPS datasets, protocols, references, and reusable resources.
+
+</td>
+<td width="25%" valign="top">
+
+### 02 · Standardize
+
+Shape shared metadata, descriptors, assays, endpoints, and experimental reporting.
+
+</td>
+<td width="25%" valign="top">
+
+### 03 · Validate
+
+Build fit-for-purpose validation, benchmarking, and reproducibility evidence.
+
+</td>
+<td width="25%" valign="top">
+
+### 04 · Contribute
+
+Join community projects through structured GitHub forms, reviews, and open discussions.
+
+</td>
+</tr>
+</table>
 
 ---
 
