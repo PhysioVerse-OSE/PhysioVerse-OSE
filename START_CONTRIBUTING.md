@@ -4,40 +4,32 @@ PhysioVerse is built with the MPS community.
 
 **You do not need programming experience to contribute.**
 
-## Choose what you want to contribute
+## Choose What You Want to Contribute
 
-| I want to... | Community project |
-|---|---|
-| Nominate or improve an MPS dataset | **MPS Data Commons** |
-| Help define minimum MPS metadata | **MPS Minimum Metadata Standard** |
-| Improve model and system terminology | **MPS Model & System Descriptors** |
-| Define important experimental conditions | **MPS Experimental Conditions Standard** |
-| Define assays, endpoints, and units | **MPS Assay & Endpoint Dictionary** |
-| Nominate biological reference datasets | **MPS Reference Atlas** |
-| Help define fit-for-purpose validation | **MPS Validation Framework** |
-| Share reproducibility evidence | **MPS Reproducibility Commons** |
-| Help connect multimodal MPS data | **MPS Multimodal Data Standard** |
-| Nominate public protocols or SOPs | **MPS Protocol Commons** |
-| Propose or join a focused challenge | **MPS Community Challenges** |
+| I want to... | Community project | Start |
+|---|---|---|
+| Nominate or improve an MPS dataset | [MPS Data Commons](https://github.com/PhysioVerse-OSE/mps-data-commons) | [Contribute](https://github.com/PhysioVerse-OSE/mps-data-commons/issues/new?template=community-contribution.yml) |
+| Help define minimum MPS metadata | [MPS Minimum Metadata Standard](https://github.com/PhysioVerse-OSE/mps-minimum-metadata) | [Contribute](https://github.com/PhysioVerse-OSE/mps-minimum-metadata/issues/new?template=community-contribution.yml) |
+| Improve model and system terminology | [MPS Model & System Descriptors](https://github.com/PhysioVerse-OSE/mps-model-system-descriptors) | [Contribute](https://github.com/PhysioVerse-OSE/mps-model-system-descriptors/issues/new?template=community-contribution.yml) |
+| Define important experimental conditions | [MPS Experimental Conditions Standard](https://github.com/PhysioVerse-OSE/mps-experimental-conditions) | [Contribute](https://github.com/PhysioVerse-OSE/mps-experimental-conditions/issues/new?template=community-contribution.yml) |
+| Define assays, endpoints, and units | [MPS Assay & Endpoint Dictionary](https://github.com/PhysioVerse-OSE/mps-assay-endpoint-dictionary) | [Contribute](https://github.com/PhysioVerse-OSE/mps-assay-endpoint-dictionary/issues/new?template=community-contribution.yml) |
+| Nominate biological reference datasets | [MPS Reference Atlas](https://github.com/PhysioVerse-OSE/mps-reference-atlas) | [Contribute](https://github.com/PhysioVerse-OSE/mps-reference-atlas/issues/new?template=community-contribution.yml) |
+| Help define fit-for-purpose validation | [MPS Validation Framework](https://github.com/PhysioVerse-OSE/mps-validation-framework) | [Contribute](https://github.com/PhysioVerse-OSE/mps-validation-framework/issues/new?template=community-contribution.yml) |
+| Share reproducibility evidence | [MPS Reproducibility Commons](https://github.com/PhysioVerse-OSE/mps-reproducibility-commons) | [Contribute](https://github.com/PhysioVerse-OSE/mps-reproducibility-commons/issues/new?template=community-contribution.yml) |
+| Help connect multimodal MPS data | [MPS Multimodal Data Standard](https://github.com/PhysioVerse-OSE/mps-multimodal-data-standard) | [Contribute](https://github.com/PhysioVerse-OSE/mps-multimodal-data-standard/issues/new?template=community-contribution.yml) |
+| Nominate public protocols or SOPs | [MPS Protocol Commons](https://github.com/PhysioVerse-OSE/mps-protocol-commons) | [Contribute](https://github.com/PhysioVerse-OSE/mps-protocol-commons/issues/new?template=community-contribution.yml) |
+| Propose or join a focused challenge | [MPS Community Challenges](https://github.com/PhysioVerse-OSE/mps-community-challenges) | [Contribute](https://github.com/PhysioVerse-OSE/mps-community-challenges/issues/new?template=community-contribution.yml) |
 
-## Five-minute contribution
+## Five-Minute Contribution
 
-1. Open the relevant project.
-2. Open **Issues**.
-3. Click **New issue**.
-4. Choose the form that matches your contribution.
-5. Complete what you know and submit.
+1. Choose a project.
+2. Click **Contribute**.
+3. Complete the short GitHub form.
+4. Add a public source when available.
+5. Submit and join the discussion.
 
 No cloning, Git commands, or coding are required.
 
-## Community review
+## Community Discussion
 
-You can also review working drafts, comment on proposed definitions, compare candidate reference datasets, discuss validation evidence, or help align PhysioVerse with existing standards.
-
-## Project contributors
-
-Community members who want deeper involvement can help curate accepted contributions, organize evidence, improve working drafts, maintain reference lists, or contribute technical work where appropriate.
-
-## Public and reusable contributions
-
-Only share information that can be discussed publicly. Do not submit confidential, proprietary, patient-identifiable, or restricted information.
+For introductions, general questions, and ideas that span multiple projects, use [PhysioVerse Discussions](https://github.com/PhysioVerse-OSE/PhysioVerse-OSE/discussions).
