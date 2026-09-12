@@ -6,7 +6,11 @@
 
 <br>
 
-# An open community turning MPS research into shared data, standards, and reproducible evidence
+# The Open Ecosystem for Organoids & Microphysiological Systems
+
+### Find data Â· Compare models Â· Benchmark performance Â· Share protocols Â· Develop standards Â· Build better human-relevant models
+
+**An open community turning MPS research into shared data, standards, and reproducible evidence.**
 
 **PhysioVerse is an open ecosystem for microphysiological systems, including organs-on-chips, organoids, tissue chips, organ tissue equivalents, and related human-relevant models.**
 
@@ -77,6 +81,19 @@ Join focused community projects without needing to write code.
 <a href="https://github.com/PhysioVerse-OSE/PhysioVerse-OSE/discussions"><img src="https://img.shields.io/badge/Join-the%20Conversation-C69214?style=for-the-badge" alt="Join the Conversation"></a>
 
 </div>
+
+---
+
+## What Do You Want to Do?
+
+| Goal | Start here |
+|---|---|
+| **Find MPS Data** | [Explore the Data Library](https://physioverse.org/data-library) or [MPS Data Commons](https://github.com/PhysioVerse-OSE/mps-data-commons) |
+| **Benchmark a Model** | [Toward Standardization](https://github.com/PhysioVerse-OSE/toward-standardization) |
+| **Develop Standards** | [Standards Exchange](https://physioverse.org/standards-exchange) |
+| **Find & Share Protocols** | [MPS Protocol Commons](https://github.com/PhysioVerse-OSE/mps-protocol-commons) |
+| **Work with Data & AI** | [MPS Data Commons](https://github.com/PhysioVerse-OSE/mps-data-commons) and [MPS Multimodal Data Standard](https://github.com/PhysioVerse-OSE/mps-multimodal-data-standard) |
+| **Contribute to PhysioVerse** | [Pick a project & contribute](START_CONTRIBUTING.md) |
 
 ---
 
@@ -177,6 +194,16 @@ Connect reusable protocols with MPS data and organize focused community work aro
 </td>
 </tr>
 </table>
+
+---
+
+## Why Contribute?
+
+| Make your work more discoverable | Help build shared infrastructure |
+|---|---|
+| Increase visibility of public resources; connect datasets, publications, protocols, and model metadata; improve FAIRness and downstream reuse. | Receive attribution for meaningful contributions; strengthen standards development; contribute validation and reproducibility evidence; support structured reuse for computational and AI applications. |
+
+[**Choose a contribution pathway â†’**](START_CONTRIBUTING.md)
 
 ---
 
@@ -303,6 +330,19 @@ Help curate accepted contributions, organize evidence, improve working drafts, m
 
 ---
 
+## Data & AI Pathway
+
+PhysioVerse is building community resources that can support computational biology and AI/ML use of MPS data. Current projects focus on foundations such as structured metadata, multimodal data organization, reproducible analysis resources, and public dataset discovery.
+
+| Resource | Current role |
+|---|---|
+| [MPS Data Commons](https://github.com/PhysioVerse-OSE/mps-data-commons) | Discover and connect public MPS datasets. |
+| [MPS Multimodal Data Standard](https://github.com/PhysioVerse-OSE/mps-multimodal-data-standard) | Develop approaches for linking omics, imaging, histology, video, functional, and sensor data. |
+| [DGE Tool Choice Benchmark](https://github.com/PhysioVerse-OSE/dge-tool-choice-benchmark) | Provide a reproducible computational benchmarking resource. |
+| [MPS Minimum Metadata Standard](https://github.com/PhysioVerse-OSE/mps-minimum-metadata) | Develop metadata foundations that improve interpretability and reuse. |
+
+---
+
 ## Community Discussion
 
 Use [**PhysioVerse Discussions**](https://github.com/PhysioVerse-OSE/PhysioVerse-OSE/discussions) for introductions, ecosystem-wide ideas, general questions, and topics that span multiple projects.
@@ -312,6 +352,8 @@ Project-specific contributions should continue through the relevant repository I
 ---
 
 ## Standards Development
+
+> **PhysioVerse provides an open community workspace for developing, testing, and refining standards-related resources; it is not itself a formal standards-setting body.**
 
 Several PhysioVerse projects are open working spaces for MPS standards and shared descriptors. These begin with **working drafts**, not declarations of finalized standards.
 
