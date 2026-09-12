@@ -274,7 +274,7 @@ New to PhysioVerse? Choose a project, join a discussion, or make a contribution 
 <!-- physioverse:task-update-v14:work-you-can-join:start -->
 ## Work You Can Join
 
-Help review [minimum donor metadata](https://github.com/PhysioVerse-OSE/mps-minimum-metadata/issues/1), refine [multi-organ model descriptors](https://github.com/PhysioVerse-OSE/mps-model-system-descriptors/issues/2), or improve [protocol reporting fields](https://github.com/PhysioVerse-OSE/mps-protocol-commons/issues/3). Open a discussion, add a public source or example, and send Mostafa the link after your contribution.
+Help review [minimum donor metadata](https://github.com/PhysioVerse-OSE/mps-minimum-metadata/issues/1), refine [multi-organ model descriptors](https://github.com/PhysioVerse-OSE/mps-model-system-descriptors/issues/2), or improve [protocol reporting fields](https://github.com/PhysioVerse-OSE/mps-protocol-commons/issues/3). Open a linked Issue and contribute a relevant public source, proposed definition, or example.
 
 **[See what to submit and how review works](https://github.com/PhysioVerse-OSE/PhysioVerse-OSE/blob/main/START_CONTRIBUTING.md#what-to-submit)**
 <!-- physioverse:task-update-v14:work-you-can-join:end -->

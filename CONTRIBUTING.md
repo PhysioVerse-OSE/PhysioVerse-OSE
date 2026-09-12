@@ -4,7 +4,7 @@
 <!-- physioverse:task-update-v14:contribution-review:start -->
 ## Submit, Review, and Incorporate a Contribution
 
-Use your own GitHub account. You can submit public evidence or a suggestion through this project's **[contribution guide](https://github.com/PhysioVerse-OSE/PhysioVerse-OSE/blob/main/START_CONTRIBUTING.md)**, or propose a focused documentation change through a pull request. No broad PhysioVerse account access is needed to propose a change.
+Use your own GitHub account. You can submit public evidence or a suggestion through this project's **[contribution guide](https://github.com/PhysioVerse-OSE/PhysioVerse-OSE/blob/main/START_CONTRIBUTING.md)**, or propose a focused documentation change through a pull request. Proposed changes can be submitted from a fork.
 
 **For a resource or scientific proposal:** provide the source, intended context, contribution, and any uncertainty. Separate reported evidence from your recommendation. Use Not reported or Unknown rather than infer missing details.
 
@@ -12,7 +12,7 @@ Use your own GitHub account. You can submit public evidence or a suggestion thro
 
 A maintainer reviews submissions and may ask for clarification or revision. Accepted material can be incorporated into the relevant project resource with source links and contribution history. Standards-oriented materials remain working drafts unless an applicable formal process establishes a different status.
 
-**After each contribution or Pull Request, send Mostafa the link so he can review it and coordinate the next step.**
+Keep supporting information and revisions in the relevant GitHub thread so the review remains traceable.
 
 For attribution details, see [Credit for your contribution](https://github.com/PhysioVerse-OSE/PhysioVerse-OSE/blob/main/START_CONTRIBUTING.md#credit-for-your-contribution). Issue and Discussion participation is valuable even when it does not appear in GitHub's commit-based contributor graph.
 <!-- physioverse:task-update-v14:contribution-review:end -->

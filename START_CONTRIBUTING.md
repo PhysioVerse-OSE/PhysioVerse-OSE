@@ -83,17 +83,17 @@ Sign in to your own GitHub account, choose a project, and open its contribution 
 4. Choose a descriptive commit message and propose the change on a new branch. Do not commit directly to the project's default branch.
 5. Open a pull request to the original **PhysioVerse-OSE** repository. Check that the base repository and base branch are correct.
 6. Explain what changed, why it is useful, and which Issue or public sources support it. Review the diff before submitting.
-7. Send Mostafa the pull-request URL. Reply to any review questions; accepted changes can then be merged by a maintainer.
+7. Respond to review comments in the pull request. A maintainer can merge the change after review.
 
-A small, source-supported documentation contribution is welcome. No artificial changes or empty commits are needed.
+Keep each proposed change focused on a useful, source-supported improvement.
 
 ## What Happens After You Contribute?
 
 **Submit → review → clarify or revise → incorporate accepted material → retain attribution and source links.**
 
-A maintainer reviews the contribution and may ask for clarification, supporting evidence, or a narrower scope. Accepted material can be incorporated into the appropriate project resource. A closed or deferred proposal should retain its discussion and explanation. Review and acceptance are not automatic, and this guide does not promise a response time.
+A maintainer reviews the contribution and may ask for clarification, supporting evidence, or a narrower scope. Accepted material can be incorporated into the appropriate project resource. A closed or deferred proposal should retain its discussion and explanation. Acceptance depends on the scope and supporting evidence.
 
-**After each Issue, Discussion contribution, or Pull Request, please send Mostafa the link so he can review it and coordinate the next step.**
+Questions, supporting information, and revisions should remain in the relevant GitHub thread.
 
 ## Credit for Your Contribution
 
