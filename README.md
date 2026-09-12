@@ -86,28 +86,28 @@ Join focused community projects without needing to write code.
 <tr>
 <td width="25%" valign="top">
 
-### 01 · Discover
+### 01 · [Find MPS Data](https://physioverse.org/find-data)
 
 Find and connect public MPS datasets, protocols, references, and reusable resources.
 
 </td>
 <td width="25%" valign="top">
 
-### 02 · Standardize
+### 02 · [Help Define MPS Standards](https://github.com/PhysioVerse-OSE/PhysioVerse-OSE/blob/main/START_CONTRIBUTING.md#standards-and-benchmarking)
 
 Shape shared metadata, descriptors, assays, endpoints, and experimental reporting.
 
 </td>
 <td width="25%" valign="top">
 
-### 03 · Validate
+### 03 · [Explore Benchmarking and Validation](https://github.com/PhysioVerse-OSE/PhysioVerse-OSE/blob/main/START_CONTRIBUTING.md#standards-and-benchmarking)
 
 Build fit-for-purpose validation, benchmarking, and reproducibility evidence.
 
 </td>
 <td width="25%" valign="top">
 
-### 04 · Contribute
+### 04 · [Choose a Project and Contribute](https://github.com/PhysioVerse-OSE/PhysioVerse-OSE/blob/main/START_CONTRIBUTING.md)
 
 Join community projects through structured GitHub forms, reviews, and open discussions.
 
@@ -228,6 +228,10 @@ A community space for developing fit-for-purpose validation evidence and reporti
 
 ### 📊 Toward Standardization
 
+<!-- physioverse:task-update-v14:benchmark-scope:start -->
+*Initial application: lung transcriptomic fidelity benchmarking. [Explore the documented application](https://physioverse.org/tools/toward-standardization).*
+<!-- physioverse:task-update-v14:benchmark-scope:end -->
+
 Reference-anchored benchmarking for evaluating biological fidelity of advanced in vitro models.
 
 [**Explore the open resource →**](https://github.com/PhysioVerse-OSE/toward-standardization)
@@ -266,6 +270,14 @@ New to PhysioVerse? Choose a project, join a discussion, or make a contribution 
 | **Community action** | **[MPS Community Challenges](https://github.com/PhysioVerse-OSE/mps-community-challenges)** | Short, focused collaborative efforts around priority MPS data, standards, validation, and curation needs. | Propose a challenge, join active work, contribute evidence, help define deliverables. | **[Contribute →](https://github.com/PhysioVerse-OSE/mps-community-challenges/issues/new?template=community-contribution.yml)** |
 
 ---
+
+<!-- physioverse:task-update-v14:work-you-can-join:start -->
+## Work You Can Join
+
+Help review [minimum donor metadata](https://github.com/PhysioVerse-OSE/mps-minimum-metadata/issues/1), refine [multi-organ model descriptors](https://github.com/PhysioVerse-OSE/mps-model-system-descriptors/issues/2), or improve [protocol reporting fields](https://github.com/PhysioVerse-OSE/mps-protocol-commons/issues/3). Open a discussion, add a public source or example, and send Mostafa the link after your contribution.
+
+**[See what to submit and how review works](https://github.com/PhysioVerse-OSE/PhysioVerse-OSE/blob/main/START_CONTRIBUTING.md#what-to-submit)**
+<!-- physioverse:task-update-v14:work-you-can-join:end -->
 
 ## Pick a Project & Contribute
 
@@ -312,6 +324,10 @@ Project-specific contributions should continue through the relevant repository I
 ---
 
 ## Standards Development
+
+<!-- physioverse:task-update-v14:standards-role:start -->
+PhysioVerse supports community-developed metadata, descriptors, evidence, and implementation resources that complement formal standards-development activities. These working drafts are open for review; they do not, by themselves, represent formal standards. [Help review standards and benchmarking resources](https://github.com/PhysioVerse-OSE/PhysioVerse-OSE/blob/main/START_CONTRIBUTING.md#standards-and-benchmarking).
+<!-- physioverse:task-update-v14:standards-role:end -->
 
 Several PhysioVerse projects are open working spaces for MPS standards and shared descriptors. These begin with **working drafts**, not declarations of finalized standards.
 
